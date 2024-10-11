@@ -7,7 +7,7 @@ import Success from "./components/success";
 export type Screen = "login" | "tnc" | "success";
 
 function App() {
-  const [screen, setScreen] = useState<Screen>("success");
+  const [screen, setScreen] = useState<Screen>("login");
 
   const changeScreen = (screen: Screen) => {
     setScreen(screen);
