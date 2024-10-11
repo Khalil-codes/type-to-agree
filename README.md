@@ -2,6 +2,8 @@
 
 Welcome to **TypeToAgree**, the fun signup challenge! Want to join? You’ll have to type out our entire terms and conditions first! Built with **React**, **Vite**, and **TailwindCSS**, this quirky app adds a playful twist to user signups by making them earn their way in—one keystroke at a time. 💻
 
+![TypeToAgree](./images/type-to-agree.gif)
+
 ## **Features** 🚀
 
 - Type the full terms and conditions to register—no shortcuts allowed!
